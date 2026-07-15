@@ -1,16 +1,53 @@
-## Hi there 👋
+Hi 👋 I'm Bhavani
 
-<!--
-**bhavani722/bhavani722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer
 
-Here are some ideas to get you started:
+🎓 BE Computer Science Engineering Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Chennai, India
+
+
+
+
+🚀 About Me
+
+Interested in Full Stack Development
+Passionate about building web applications
+Open to Software Developer opportunities
+
+
+
+🛠️ Tech Stack
+
+Languages
+Java • Python 
+
+Frontend
+HTML • CSS • JavaScript • React.js
+
+Backend
+Spring Boot • Python
+
+Database
+Firebase • MySQL • PostgreSQL
+
+Tools
+• GitHub • Postman • Swagger
+
+
+
+📌 Featured Projects
+
+UPI Fraud Detection System
+Machine learning-based fraud detection for UPI transactions.
+
+HotelHub
+Hotel booking and management platform built using Java Spring Boot.
+
+
+
+
+
+
+
+🚀 Code • Learn • Build • Repeat
